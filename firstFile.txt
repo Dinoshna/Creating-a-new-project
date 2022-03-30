@@ -1,2 +1,3 @@
   welcome to GitHub !!
 create a new branch
+compare and add in new branch after merge with master
